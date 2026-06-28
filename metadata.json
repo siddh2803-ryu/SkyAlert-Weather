@@ -1,0 +1,6 @@
+{
+  "name": "SkyAlert Weather",
+  "description": "Minimalist weather tracker featuring location-based forecast, hourly precipitation notifications, sleek dark interface, quick-view widget, and offline data caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

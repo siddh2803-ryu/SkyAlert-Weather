@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkyAlert</string>
+    <string name="notification_channel_name">Precipitation Alerts</string>
+    <string name="notification_channel_description">Notifies you of upcoming rain or snow precipitation</string>
+    <string name="widget_label">SkyAlert Quick Check</string>
+    <string name="widget_loading">Loading...</string>
+    <string name="permission_rationale">SkyAlert requires Location permissions to display local weather and schedule precipitation alerts.</string>
+</resources>
